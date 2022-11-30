@@ -7,5 +7,7 @@ To get started, simply fork this repository and clone it to your local machine. 
 
 Thank you for checking out my project!
 
+Click Here To Preview The Site: https://lydia-netflix-clone.web.app/
+
 Lydia B.
 
